@@ -424,6 +424,8 @@ CHC影迷电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
 
 🇨🇳IPV4明星,#genre#
 周星驰,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
+
+李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 冰冰经典,http://159.75.85.63:35455/douyu/74374
 怡寶影院,http://159.75.85.63:35455/douyu/434971
