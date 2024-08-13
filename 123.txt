@@ -174,7 +174,10 @@ CHC影迷电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
 华视,rtmp://f13h.mine.nu/sat/tv111
 台视,rtmp://f13h.mine.nu/sat/tv071
 民视,rtmp://f13h.mine.nu/sat/tv051
-
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 --------------------------------------------------------------------------------------------------
 
@@ -431,7 +434,10 @@ NOW爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.fl
 台视,rtmp://f13h.mine.nu/sat/tv071
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,http://23.224.239.148/mlTW8866.php?id=ftvhd_taiwan
-
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 ---------------------------------------------------------------------------------------------------------------------------
 
