@@ -18,7 +18,7 @@ CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV18,https://vd3.bdstatic.com/mda-pe09yr9r30wbxc6f/720p/h264/1682924667761123043/mda-pe09yr9r30wbxc6f.mp4
-CCTV4K,http://112.84.131.28:80/hlslive-tx-cdn.ysp.cctv.cn/512/2024081302.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4K,http://majian.ixiaobai.net:5540/udp/239.37.0.34:5540
 CCTV8K,http://112.84.131.28:80/hlslive-tx-cdn.ysp.cctv.cn/512/2020603421.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
@@ -220,7 +220,7 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://106.59.2.162:55555/udp/239.200.200.194:8780 
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV18,https://vd3.bdstatic.com/mda-pe09yr9r30wbxc6f/720p/h264/1682924667761123043/mda-pe09yr9r30wbxc6f.mp4
-CCTV4K,http://112.84.131.28:80/hlslive-tx-cdn.ysp.cctv.cn/512/2024081302.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4K,http://majian.ixiaobai.net:5540/udp/239.37.0.34:5540
 CCTV8K,http://112.84.131.28:80/hlslive-tx-cdn.ysp.cctv.cn/512/2020603421.m3u8?key=txiptv&playlive=1&authid=0
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
