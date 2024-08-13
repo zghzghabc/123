@@ -171,10 +171,10 @@ CHC影迷电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8中视,rtmp://f13h.mine.nu/sat/tv091
 中视,rtmp://f13h.mine.nu/sat/tv091
-
 华视,rtmp://f13h.mine.nu/sat/tv111
 台视,rtmp://f13h.mine.nu/sat/tv071
 民视,rtmp://f13h.mine.nu/sat/tv051
+
 
 --------------------------------------------------------------------------------------------------
 
@@ -456,7 +456,8 @@ NOW爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.fl
 欧美大片,http://159.75.85.63:35455/douyu/2793084
 
 --------------------------------------------------------------------------------------------------------
-🇨🇳IPV4猫和老鼠,#genre#
+
+猫和老鼠,#genre#
 第一季第1集,https://play.hhuus.com/play/YernLzwe/index.m3u8
 第一季第2集,https://play.hhuus.com/play/qaQBPPqb/index.m3u8
 第一季第3集,https://play.hhuus.com/play/5eVKXL5a/index.m3u8
