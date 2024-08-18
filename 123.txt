@@ -464,7 +464,28 @@ NOW爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.fl
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-
+TaiwanPlus,http://80story.us.to:8073/live.m3u8?c=44
+TVBS,http://80story.us.to:8073/live.m3u8?c=45
+TVBS NEWS,http://80story.us.to:8073/live.m3u8?c=46
+TVBS新闻台,http://80story.us.to:8073/live.m3u8?c=47
+中天新闻,http://80story.us.to:8073/live.m3u8?c=48
+中天新闻+,http://80story.us.to:8073/live.m3u8?c=49
+中天亚洲,http://80story.us.to:8073/live.m3u8?c=50
+寰宇新闻,http://80story.us.to:8073/live.m3u8?c=51
+寰宇财经,http://80story.us.to:8073/live.m3u8?c=53
+寰宇新闻(台湾),http://80story.us.to:8073/live.m3u8?c=54
+中视新闻,http://80story.us.to:8073/live.m3u8?c=55
+台视新闻,http://80story.us.to:8073/live.m3u8?c=61
+民视新闻,http://80story.us.to:8073/live.m3u8?c=69
+华视新闻,http://80story.us.to:8073/live.m3u8?c=74
+公视新闻,http://80story.us.to:8073/live.m3u8?c=77
+镜新闻,http://80story.us.to:8073/live.m3u8?c=78
+东森LIVE,http://80story.us.to:8073/live.m3u8?c=62
+东森新闻,http://80story.us.to:8073/live.m3u8?c=63
+东森财经,http://80story.us.to:8073/live.m3u8?c=65
+奇怪物语,http://80story.us.to:8073/live.m3u8?c=68
+综艺玩很大,http://80story.us.to:8073/live.m3u8?c=73
+天才冲冲冲,http://80story.us.to:8073/live.m3u8?c=75
 ---------------------------------------------------------------------------------------------------------------------------
 
 🇨🇳IPV4明星,#genre#
