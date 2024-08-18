@@ -429,6 +429,7 @@ NOW星影,http://123.150.5.131:9000/NOW星影盗源可耻/易發TV专用.live.fl
 NOW爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.flv
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+美亚电影,http://60.208.140.180:5544/美亚电影-盗源可耻/易發TV专用.live.ts
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
 台视,rtmp://f13h.mine.nu/sat/tv071
