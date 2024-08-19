@@ -509,6 +509,9 @@ TVBS新闻台,http://80story.us.to:8073/live.m3u8?c=47
 黄   渤,http://124.248.69.76:35455/huya/11352876
 甄子丹,http://124.248.69.76:35455/huya/11352935
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
+倩女幽魂1,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+倩女幽魂2,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+倩女幽魂3,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 漫威电影,http://live.iill.top/douyu.php?id=6140589
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 冰冰经典,http://159.75.85.63:35455/douyu/74374
