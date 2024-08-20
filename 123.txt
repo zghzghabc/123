@@ -167,7 +167,7 @@ CHC影迷电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
 --------------------------------------------------------------------------------------------
 
 🇨🇳IPV6港台,#genre#
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://80story.us.to:8073/live.m3u8?c=88
+凤凰资讯,http://80story.us.to:8073/live.m3u8?c=88#https://stream1.freetv.fun/feng-huang-zi-xun-1-1.ctv
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com:8880/jydx.php?id=37
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8#http://php.jdshipin.com:8880/jydx.php?id=38
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -453,7 +453,7 @@ CHC影迷电影,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
 ----------------------------------------------------------------------------------------------------------------------------
 
 🇨🇳IPV4港台,#genre#
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://80story.us.to:8073/live.m3u8?c=88#https://stream1.freetv.fun/feng-huang-zi-xun-1-1.ctv
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://ojbk.02200059.xyz:4022/udp/226.1.30.066:6000
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8#http://php.jdshipin.com:8880/jydx.php?id=38
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
