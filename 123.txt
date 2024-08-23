@@ -222,7 +222,8 @@ iHOT爱旅行,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 iHOT爱奇谈,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058
 iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059
 iHOT爱体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060
-
+iHOT爱电竞,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000054/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000054
+iHOT爱青春,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000041
 ------------------------------------------------------------------------------------------------
 
 🇨🇳IPV4央视,#genre#
