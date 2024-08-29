@@ -170,7 +170,7 @@ CHC影迷电影,http://59.44.102.18:8888/newlive/live/hls/58/live.m3u8
 
 🇨🇳IPV6港台,#genre#
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
-凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
+凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192$1920x1080
 凤凰香港,http://129.226.149.79:4785/html/DFTV.php?access_token=DY0716_V4_TG@ososoos&id=hkfhxg1
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 無綫新聞,http://grandprix2023.asuscomm.com:8892/bysid/83
@@ -452,7 +452,7 @@ CHC影迷电影,http://59.44.102.18:8888/newlive/live/hls/58/live.m3u8
 
 🇨🇳IPV4港台,#genre#
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
-凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
+凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192$1920x1080
 凤凰香港,http://129.226.149.79:4785/html/DFTV.php?access_token=DY0716_V4_TG@ososoos&id=hkfhxg1
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 無綫新聞,http://grandprix2023.asuscomm.com:8892/bysid/83
