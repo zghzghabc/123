@@ -102,7 +102,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 🇨🇳IPV6其它,#genre#
 CHC家庭影院,http://59.44.102.18:8888/newlive/live/hls/59/live.m3u8
 CHC动作电影,http://59.44.102.18:8888/newlive/live/hls/57/live.m3u8
-
 CHC影迷电影,http://59.44.102.18:8888/newlive/live/hls/58/live.m3u8
 1905A电影,http://yubox.xyz/php/1905.php?id=1905a
 1905B电影,http://yubox.xyz/php/1905.php?id=1905b
@@ -408,7 +407,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 🇨🇳IPV4付费,#genre#
 CHC家庭影院,http://59.44.102.18:8888/newlive/live/hls/59/live.m3u8
 CHC动作电影,http://59.44.102.18:8888/newlive/live/hls/57/live.m3u8
-
 CHC影迷电影,http://59.44.102.18:8888/newlive/live/hls/58/live.m3u8
 1905A电影,http://yubox.xyz/php/1905.php?id=1905a
 1905B电影,http://yubox.xyz/php/1905.php?id=1905b
