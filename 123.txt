@@ -40,11 +40,11 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 🇨🇳IPV6卫视,#genre#
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8#https://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
-云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8#https://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8?nimblesessionid=188568908
-云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8#https://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8?nimblesessionid=188569626
-云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8#
-云南国际,http://tvlive.ynradio.com/live/yunnanguoji/chunks.m3u8#
+云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
+云南康旅,http://117.72.68.25:9930/yunan.php?id=ynkl
+云南娱乐,http://117.72.68.25:9930/yunan.php?id=ynyl
+云南少儿,http://117.72.68.25:9930/yunan.php?id=ynse
+云南国际,http://117.72.68.25:9930/yunan.php?id=yngj
 云南影视,http://enlen.vip:4022/udp/239.200.200.15:8856
 昆明影视,http://ynxsj.7766.org:9901/tsfile/live/1016_1.m3u8
 昆明新闻,http://ynxsj.7766.org:9901/tsfile/live/1019_1.m3u8
@@ -269,10 +269,10 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 🇨🇳IPV4卫视,#genre#
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
-云南康旅,http://106.59.3.147:55555/udp/239.200.200.31:8860
-云南娱乐,http://106.59.3.147:55555/udp/239.200.200.13:8848
-云南少儿,http://106.59.3.147:55555/udp/239.200.200.32:8864
-云南国际,http://106.59.3.147:55555/udp/239.200.200.33:8024
+云南康旅,http://117.72.68.25:9930/yunan.php?id=ynkl
+云南娱乐,http://117.72.68.25:9930/yunan.php?id=ynyl
+云南少儿,http://117.72.68.25:9930/yunan.php?id=ynse
+云南国际,http://117.72.68.25:9930/yunan.php?id=yngj
 云南影视,http://106.59.3.147:55555/udp/239.200.200.15:8856
 昆明影视,http://ynxsj.7766.org:9901/tsfile/live/1016_1.m3u8
 昆明新闻,http://ynxsj.7766.org:9901/tsfile/live/1019_1.m3u8
