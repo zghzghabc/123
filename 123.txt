@@ -102,9 +102,10 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 -------------------------------------------------------------------------------------
 
 🇨🇳IPV6其它,#genre#
-CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?
-CHC影迷电影,http://59.44.102.18:8888/newlive/live/hls/58/live.m3u8
+CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
+CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
+CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
+
 1905A电影,http://yubox.xyz/php/1905.php?id=1905a
 1905B电影,http://yubox.xyz/php/1905.php?id=1905b
 女性时尚,http://110.179.81.36:8083/udp/239.1.1.89:8089
@@ -412,9 +413,10 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 -------------------------------------------------------------------------------------------------------------------------------------
 
 🇨🇳IPV4付费,#genre#
-CHC家庭影院,http://59.44.102.18:8888/newlive/live/hls/59/live.m3u8
-CHC动作电影,http://59.44.102.18:8888/newlive/live/hls/57/live.m3u8
-CHC影迷电影,http://59.44.102.18:8888/newlive/live/hls/58/live.m3u8
+CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
+CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
+CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
+
 1905A电影,http://yubox.xyz/php/1905.php?id=1905a
 1905B电影,http://yubox.xyz/php/1905.php?id=1905b
 女性时尚,http://110.179.81.36:8083/udp/239.1.1.89:8089
