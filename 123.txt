@@ -170,8 +170,8 @@ CHC影迷电影,http://59.44.102.18:8888/newlive/live/hls/58/live.m3u8
 --------------------------------------------------------------------------------------------
 
 🇨🇳IPV6港台,#genre#
-凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
-凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192$1920x1080
+凤凰资讯,http://bva.iptviptv.site:9694/hls/732/index.m3u8#http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086##http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://bva.iptviptv.site:9694/hls/731/index.m3u8#http://e2.woc.iiiya.cn:8888/rtp/239.61.2.184:9092#http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰香港,http://bva.iptviptv.site:9694/hls/730/index.m3u8#http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 無綫新聞,http://bva.iptviptv.site:9694/hls/906/index.m3u8#http://live.cooltv.top/tv/tvb.php?id=2&hq
@@ -453,8 +453,8 @@ CHC影迷电影,http://59.44.102.18:8888/newlive/live/hls/58/live.m3u8
 ----------------------------------------------------------------------------------------------------------------------------
 
 🇨🇳IPV4港台,#genre#
-凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
-凤凰中文,http://ayolee.com:5253/udp/239.93.0.162:2192$1920x1080
+凤凰资讯,http://bva.iptviptv.site:9694/hls/732/index.m3u8#http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086##http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰中文,http://bva.iptviptv.site:9694/hls/731/index.m3u8#http://e2.woc.iiiya.cn:8888/rtp/239.61.2.184:9092#http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰香港,http://bva.iptviptv.site:9694/hls/730/index.m3u8#http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 無綫新聞,http://bva.iptviptv.site:9694/hls/906/index.m3u8#http://live.cooltv.top/tv/tvb.php?id=2&hq
