@@ -192,7 +192,8 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8#https://test.zapi.us.kg/?id=cti-yule
 非凡新闻,https://test.zapi.us.kg/?id=unique-business-news
 中视新闻,https://test.zapi.us.kg/?id=ctv-news
-台视新闻,https://test.zapi.us.kg/?id=ttv-news
+
+台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 VIiUTV1,http://61.238.177.254:30261/stream/channel/9b9455bb562aba2e07d241544e8c0b76?profile=webtv-h264-aac-matroska
 VIiUTV2,http://61.238.177.254:30261/stream/channel/5942ff05c154e7fe7691227c56b7f3ac?profile=webtv-h264-aac-matroska
 三立综合台,https://test.zapi.us.kg/?id=settv-zonghe
@@ -475,7 +476,7 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8#https://test.zapi.us.kg/?id=cti-yule
 非凡新闻,https://test.zapi.us.kg/?id=unique-business-news
 中视新闻,https://test.zapi.us.kg/?id=ctv-news
-台视新闻,https://test.zapi.us.kg/?id=ttv-news
+台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 VIiUTV1,http://61.238.177.254:30261/stream/channel/9b9455bb562aba2e07d241544e8c0b76?profile=webtv-h264-aac-matroska
 VIiUTV2,http://61.238.177.254:30261/stream/channel/5942ff05c154e7fe7691227c56b7f3ac?profile=webtv-h264-aac-matroska
 三立综合台,https://test.zapi.us.kg/?id=settv-zonghe
