@@ -105,9 +105,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
-
-1905A电影,http://yubox.xyz/php/1905.php?id=1905a
-1905B电影,http://yubox.xyz/php/1905.php?id=1905b
+1905亚洲,http://tv.kakaxi-1.ink:8899/1905.php?id=1905a
+1905国际,http://tv.kakaxi-1.ink:8899/1905.php?id=1905b
 女性时尚,http://110.179.81.36:8083/udp/239.1.1.89:8089
 电视指南,http://110.179.81.36:8083/udp/239.1.1.90:8090
 文化精品,http://110.179.81.36:8083/udp/239.1.1.91:8091
@@ -416,9 +415,8 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
-
-1905A电影,http://yubox.xyz/php/1905.php?id=1905a
-1905B电影,http://yubox.xyz/php/1905.php?id=1905b
+1905亚洲,http://tv.kakaxi-1.ink:8899/1905.php?id=1905a
+1905国际,http://tv.kakaxi-1.ink:8899/1905.php?id=1905b
 女性时尚,http://110.179.81.36:8083/udp/239.1.1.89:8089
 电视指南,http://110.179.81.36:8083/udp/239.1.1.90:8090
 文化精品,http://110.179.81.36:8083/udp/239.1.1.91:8091
