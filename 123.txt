@@ -176,9 +176,11 @@ CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8
 --------------------------------------------------------------------------------------------
 
 🇨🇳IPV6港台,#genre#
-凤凰资讯,http://bva.iptviptv.site:9694/hls/732/index.m3u8#http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086##http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰中文,http://bva.iptviptv.site:9694/hls/731/index.m3u8#http://e2.woc.iiiya.cn:8888/rtp/239.61.2.184:9092#http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰香港,http://bva.iptviptv.site:9694/hls/730/index.m3u8#http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#
+凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 無綫新聞,http://bva.iptviptv.site:9694/hls/906/index.m3u8#http://live.cooltv.top/tv/tvb.php?id=2&hq
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -462,9 +464,11 @@ CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8
 ----------------------------------------------------------------------------------------------------------------------------
 
 🇨🇳IPV4港台,#genre#
-凤凰资讯,http://bva.iptviptv.site:9694/hls/732/index.m3u8#http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086##http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰中文,http://bva.iptviptv.site:9694/hls/731/index.m3u8#http://e2.woc.iiiya.cn:8888/rtp/239.61.2.184:9092#http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰香港,http://bva.iptviptv.site:9694/hls/730/index.m3u8#http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk#
+凤凰资讯,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 無綫新聞,http://bva.iptviptv.site:9694/hls/906/index.m3u8#http://live.cooltv.top/tv/tvb.php?id=2&hq
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
