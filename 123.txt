@@ -196,6 +196,7 @@ TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 东森财经,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 天映经典,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
