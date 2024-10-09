@@ -19,11 +19,6 @@ CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV4欧洲,http://www.lizhinas.top:8688/rtp/239.252.219.192:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 CCTV4美洲,http://www.lizhinas.top:8688/rtp/239.252.219.193:5140%24%E6%B1%9F%E8%A5%BFcmc3+
-CCTV4K,http://jt.zorua.cn:8787/udp/239.77.1.180:5146
-CCTV4K,http://113.109.250.1:9999/udp/239.77.0.174:5146
-CCTV4K,http://ddns.cyruslee.top:8888/udp/239.77.0.194:5146
-CCTV4K,http://119.98.133.130:4000/udp/239.69.1.111:10304
-CCTV8K,http://mtw.so/62HqYI
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-3,http://115.171.216.195:4000/udp/225.1.8.194:4120
@@ -277,11 +272,6 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV4欧洲,http://www.lizhinas.top:8688/rtp/239.252.219.192:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 CCTV4美洲,http://www.lizhinas.top:8688/rtp/239.252.219.193:5140%24%E6%B1%9F%E8%A5%BFcmc3+
-CCTV4K,http://jt.zorua.cn:8787/udp/239.77.1.180:5146
-CCTV4K,http://113.109.250.1:9999/udp/239.77.0.174:5146
-CCTV4K,http://ddns.cyruslee.top:8888/udp/239.77.0.194:5146
-CCTV4K,http://119.98.133.130:4000/udp/239.69.1.111:10304
-CCTV8K,http://mtw.so/62HqYI
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV3,http://115.171.216.195:4000/udp/225.1.8.194:4120
