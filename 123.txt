@@ -42,7 +42,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 🇨🇳IPV6卫视,#genre#
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
-云南康旅,http://117.72.68.25:9930/yunan.php?id=ynkl
+云南康旅,http://enlen.vip:4022/udp/239.200.200.31:8860
 云南娱乐,http://117.72.68.25:9930/yunan.php?id=ynyl
 云南少儿,http://117.72.68.25:9930/yunan.php?id=ynse
 云南国际,http://117.72.68.25:9930/yunan.php?id=yngj
@@ -283,7 +283,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 🇨🇳IPV4卫视,#genre#
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
-云南康旅,http://117.72.68.25:9930/yunan.php?id=ynkl
+云南康旅,http://enlen.vip:4022/udp/239.200.200.31:8860
 云南娱乐,http://117.72.68.25:9930/yunan.php?id=ynyl
 云南少儿,http://117.72.68.25:9930/yunan.php?id=ynse
 云南国际,http://117.72.68.25:9930/yunan.php?id=yngj
