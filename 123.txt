@@ -21,7 +21,7 @@ CCTV4欧洲,http://www.lizhinas.top:8688/rtp/239.252.219.192:5140%24%E6%B1%9F%E8
 CCTV4美洲,http://www.lizhinas.top:8688/rtp/239.252.219.193:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-3,http://115.171.216.195:4000/udp/225.1.8.194:4120
+CETV-3,http://117.114.153.26:8180/TV00000000000000000009@HHZT$北京全网通
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
@@ -271,7 +271,7 @@ CCTV4欧洲,http://www.lizhinas.top:8688/rtp/239.252.219.192:5140%24%E6%B1%9F%E8
 CCTV4美洲,http://www.lizhinas.top:8688/rtp/239.252.219.193:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV3,http://115.171.216.195:4000/udp/225.1.8.194:4120
+CETV3,http://117.114.153.26:8180/TV00000000000000000009@HHZT$北京全网通
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
