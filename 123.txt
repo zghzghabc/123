@@ -100,8 +100,8 @@ GGTN阿语,https://0472.org/hls/cgtna.m3u8
 CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
-1905亚洲,http://tv.kakaxi-1.ink:8899/1905.php?id=1905a
-1905国际,http://tv.kakaxi-1.ink:8899/1905.php?id=1905b
+1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b$央视影音
+1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a$央视影音
 求索记录,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 求索动物,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 求索科学,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
@@ -420,8 +420,8 @@ GGTN阿语,https://0472.org/hls/cgtna.m3u8
 CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
-1905亚洲,http://tv.kakaxi-1.ink:8899/1905.php?id=1905a
-1905国际,http://tv.kakaxi-1.ink:8899/1905.php?id=1905b
+1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b$央视影音
+1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a$央视影音
 电视指南,http://183.185.227.252:8005/rtp/226.0.2.218:9656
 央视精品,http://183.185.227.252:8005/rtp/226.0.2.219:9664
 世界地理,http://183.185.227.252:8005/rtp/226.0.2.222:9688
