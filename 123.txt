@@ -17,6 +17,7 @@ CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV4K,http://183.207.248.71/PLTV/4/224/3221228228/index.m3u8
 CCTV4欧洲,http://www.lizhinas.top:8688/rtp/239.252.219.192:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 CCTV4美洲,http://www.lizhinas.top:8688/rtp/239.252.219.193:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
