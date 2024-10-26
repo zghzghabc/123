@@ -37,11 +37,10 @@ GGTN阿语,https://0472.org/hls/cgtna.m3u8
 🇨🇳IPV6卫视,#genre#
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
-云南康旅,http://enlen.vip:4022/udp/239.200.200.31:8860
-云南娱乐,http://enlen.vip:4022/udp/239.200.200.13:8848
-云南少儿,http://enlen.vip:4022/udp/239.200.200.32:8864
-云南国际,http://enlen.vip:4022/udp/239.200.200.33:8024
-云南影视,http://enlen.vip:4022/udp/239.200.200.15:8856
+云南娱乐,http://61.163.58.195:1718/yunnan.php?id=ynyl
+云南康旅,http://61.163.58.195:1718/yunnan.php?id=ynkl
+云南国际,http://61.163.58.195:1718/yunnan.php?id=yngj
+云南少儿,http://61.163.58.195:1718/yunnan.php?id=ynse
 昆明影视,http://ynxsj.7766.org:9901/tsfile/live/1016_1.m3u8
 昆明新闻,http://ynxsj.7766.org:9901/tsfile/live/1019_1.m3u8
 昆明科教,http://ynxsj.7766.org:9901/tsfile/live/1010_1.m3u8
