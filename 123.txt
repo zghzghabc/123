@@ -182,9 +182,13 @@ TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 年代新闻,http://211.72.65.236:8539/.m3u8
 中天新闻,http://211.72.65.236:8541/.m3u8
 民视新闻,http://211.72.65.236:8542/.m3u8
-寰宇新闻,http://211.72.65.236:8547/.m3u8
+寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 壹新闻,http://211.72.65.236:8548/.m3u8#http://211.72.65.236:8529/.m3u8
 三立新闻,http://211.72.65.236:8543/.m3u8
+日本全天新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 TVBS欢乐台,http://211.72.65.236:8532/.m3u8
 TVBSHD,http://211.72.65.236:8575/.m3u8
 中天娱乐,http://211.72.65.236:8527/.m3u8
