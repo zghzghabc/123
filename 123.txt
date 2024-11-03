@@ -175,9 +175,11 @@ CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy#http://cg14.hun
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 千禧经典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-TVBS新闻台,http://211.72.65.236:8574/.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+东森新闻,http://211.72.65.236:8574/.m3u8
 年代新闻,http://211.72.65.236:8539/.m3u8
-东森新闻,http://211.72.65.236:8540/.m3u8
 中天新闻,http://211.72.65.236:8541/.m3u8
 民视新闻,http://211.72.65.236:8542/.m3u8
 寰宇新闻,http://211.72.65.236:8547/.m3u8
