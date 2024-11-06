@@ -214,7 +214,6 @@ PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
