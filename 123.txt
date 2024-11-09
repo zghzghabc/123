@@ -33,7 +33,7 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 GGTN阿语,https://0472.org/hls/cgtna.m3u8
 --------------------------------------------------------------------------------------------------
 
-🇨🇳IPV6卫视,#genre#
+🇨🇳地方卫视,#genre#
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
 云南娱乐,http://61.163.58.195:1718/yunnan.php?id=ynyl
