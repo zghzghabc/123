@@ -184,8 +184,7 @@ TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 民视新闻,http://211.72.65.236:8542/.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-壹新闻,http://211.72.65.236:8529/.m3u8#http://211.72.65.236:8548/.m3u8
+娱乐新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah009-golive.flv
 三立新闻,http://211.72.65.236:8543/.m3u8
 日本全天新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 中视新闻,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
@@ -233,6 +232,26 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+NOW新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b44-golive.flv
+NOW财经,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b45-golive.flv
+HOT76,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b47-golive.flv
+HOT77,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b48-golive.flv
+HOT78,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b49-golive.flv
+ROCK,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b33-golive.flv
+AXN,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b32-golive.flv
+THRILL,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b29-golive.flv
+MYTVSUPER,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a18-golive.flv
+18台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a17-golive.flv
+黄金华剧,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a12-golive.flv
+RTHK31,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a25-golive.flv
+POPC,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a27-golive.flv
+RTHK32,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a26-golive.flv
+创世电视,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a24-golive.flv
+美亚电影,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a23-golive.flv
+黄金翡翠台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a11-golive.flv
+TVN,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a28-golive.flv
+ROCKACTIN,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b34-golive.flv
+LoveNaYURe,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b35-golive.flv
 --------------------------------------------------------------------------------------------------
 
 🇨🇳IPV6iHOT,#genre#
