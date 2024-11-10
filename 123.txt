@@ -25,11 +25,12 @@ CETV-4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/1.m3u
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
-GGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
-GGTN阿语,https://0472.org/hls/cgtna.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+
 --------------------------------------------------------------------------------------------------
 
 🇨🇳地方卫视,#genre#
