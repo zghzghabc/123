@@ -195,7 +195,7 @@ TVBSHD,http://211.72.65.236:8575/.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天娱乐,http://211.72.65.236:8527/.m3u8
 纬来电影,http://211.72.65.236:8550/.m3u8
-爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+爆谷台,Now 爆谷,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
