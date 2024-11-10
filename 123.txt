@@ -206,6 +206,10 @@ Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 东森戏剧,http://211.72.65.236:8530/.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 GTV八大戏剧,http://211.72.65.236:8531/.m3u8
 AI智慧赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
