@@ -96,10 +96,10 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 -------------------------------------------------------------------------------------
 
-🇨🇳IPV6其它,#genre#
-CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D#http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
+🇨🇳其它剧场,#genre#
+CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
-CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy#http://cg14.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?t=D360byGt%2BpZL3Wo1xiFxAw%3D%3D&u=HNTV01YU00021202&p=8&cid=100000190&pid=&l=1&d=48555E45F7FC&ip=192.168.197.125&n=CHCJTYY_8000&errorcode=0&sid=dc0dvd1mPBtLnOcG8ia8jA%3D%3D&r=20231212111401&e=20231212151401&nc=XOLY5A6gm03W&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422697120&srchost=172.16.22.158:8060&gid=DHldhfgdMMpjpVp6NSOZqw%3D%3D#http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
 都市剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
@@ -165,7 +165,7 @@ CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy#http://cg14.hun
 
 --------------------------------------------------------------------------------------------
 
-🇨🇳IPV6港台,#genre#
+🇨🇳香港台湾,#genre#
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰卫视,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
@@ -264,7 +264,7 @@ ROCKACTIN,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b34-golive.
 LoveNaYURe,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b35-golive.flv
 --------------------------------------------------------------------------------------------------
 
-🇨🇳IPV6iHOT,#genre#
+🇨🇳iHOT剧场,#genre#
 iHOT爱谍战,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000070630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
 iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 iHOT爱科幻,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000020630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
@@ -291,43 +291,7 @@ iHot亚洲影院,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000
 iHot亚洲影院,http://[2409:8087:5e08:24::11]:6610/000000001000/5841816227539527643/1.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
 ------------------------------------------------------------------------------------------------
 
-🇨🇳IPV4央视,#genre#
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#
-CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8 
-CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8 
-CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8 
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8 
-CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8 
-CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8 
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://106.59.2.162:55555/udp/239.200.200.194:8780 
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV4欧洲,http://www.lizhinas.top:8688/rtp/239.252.219.192:5140%24%E6%B1%9F%E8%A5%BFcmc3+
-CCTV4美洲,http://www.lizhinas.top:8688/rtp/239.252.219.193:5140%24%E6%B1%9F%E8%A5%BFcmc3+
-CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV3,http://117.114.153.26:8180/TV00000000000000000009@HHZT$北京全网通
-CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-GGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-GGTN阿语,https://0472.org/hls/cgtna.m3u8
-
-
---------------------------------------------------------------------------------------------------------------------
-超级工程,#genre#
+🇨🇳超级工程,#genre#
 Ⅰ第1集 港珠澳大桥(上),https://flv0.bn.netease.com/4d0818d8913a89c30007df8b36f2e336b9a9781cee68edf9751dcf42a97902e2869b89064ad593ada9a5990dbebd3801d681bc7975a08b04ecc696bc537bef54119d9d87858b656c81b2cb01774ac8e97e2980831e0b19a9ab74406ae369e465aa69508aab9cdf24e77d92b6a059708a26aaf0476f5b578a.m3u8
 Ⅰ第1集 港珠澳大桥(中),https://flv0.bn.netease.com/4d0818d8913a89c30ef3313b4d99b2b95736e16ce9c18e25af8c8ff65d4137ce80c99f1f2720a59e09cbb9c6c5a26a18ef70126e063cfc5c32e25d6289c542d272e1dfb489d20ebe5dcb1a5b424e9f9790eb32a9388ce3b670310ca371bddd3fd431e1376e89c3c93def622c7743b0efeb1b71186a727020.m3u8
 Ⅰ第1集 港珠澳大桥(下),https://flv0.bn.netease.com/4d0818d8913a89c30ef3313b4d99b2b9f33b692fb6ebfd47b2af13915592625825494e275d53b94bc7aa66655c78a92b77b4e8c40199f2a426acbee793dbee3195171bf1015fc3e57c694e7bf8db618ea11fc76527706f231902996e87e651af2645226962cc44f1d36aff22c67f4ea74c225c681556f249.m3u8
@@ -374,7 +338,7 @@ GGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
-明星,#genre#
+🇨🇳明星电影,#genre#
 周星驰,http://diyp.zxxoo.work/douyu/122402
 李连杰,http://cfss.cc/cdn/hy/11342390.m3u8
 梁家辉,http://diyp.zxxoo.work/huya/11342429
@@ -426,7 +390,7 @@ GGTN阿语,https://0472.org/hls/cgtna.m3u8
 上海滩,http://159.75.85.63:35455/yy/1382745184
 --------------------------------------------------------------------------------------------------------
 
-猫和老鼠,#genre#
+🇨🇳猫和老鼠,#genre#
 第一季第1集,https://play.hhuus.com/play/YernLzwe/index.m3u8
 第一季第2集,https://play.hhuus.com/play/qaQBPPqb/index.m3u8
 第一季第3集,https://play.hhuus.com/play/5eVKXL5a/index.m3u8
@@ -558,7 +522,7 @@ GGTN阿语,https://0472.org/hls/cgtna.m3u8
 第四季第26集完结,https://play.hhuus.com/play/Ddwvo08b/index.m3u8
 
 -------------------------------------------------------------------------------------
-春晚,#genre#
+🇨🇳中国春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
