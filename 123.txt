@@ -35,7 +35,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 🇨🇳地方卫视,#genre#
 云南卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000035
-云南卫视,http://ynxsj.7766.org:9901/tsfile/live/0119_1.m3u8
+美丽云南,https://www.ynbit.com:1937/cyds-mlyn/livestream/playlist.m3u8?zyund
 云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
 云南娱乐,,http://ynxsj.7766.org:9901/tsfile/live/1002_1.m3u8
 云南影视,http://ynxsj.7766.org:9901/tsfile/live/1003_1.m3u8
