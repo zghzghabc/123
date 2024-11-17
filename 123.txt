@@ -182,7 +182,7 @@ CHC家庭影院,https://api.livednow.org/migu/644368373?sign=gAAAAABnJcJqmc1MsiQ
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-TVB星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 千禧经典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
@@ -195,12 +195,13 @@ TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 三立新闻,http://211.72.65.236:8543/.m3u8
+镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 日本全天新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 中视新闻,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 华视新闻,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-TVBS欢乐台,http://211.72.65.236:8532/.m3u8
-TVBSHD,http://211.72.65.236:8575/.m3u8
+TVBS欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
+TVBS精采台,https://litv.zapi.us.kg/?id=4gtv-4gtv067
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天娱乐,http://211.72.65.236:8527/.m3u8
 纬来电影,http://211.72.65.236:8550/.m3u8
