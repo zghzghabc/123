@@ -218,10 +218,10 @@ TVBS精采台,https://litv.zapi.us.kg/?id=4gtv-4gtv067
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天娱乐,http://211.72.65.236:8527/.m3u8
 纬来电影,http://211.72.65.236:8550/.m3u8
-民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
-中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
-华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
-台视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
 爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
