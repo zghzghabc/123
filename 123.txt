@@ -185,11 +185,11 @@ CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 --------------------------------------------------------------------------------------------
 
 🇨🇳香港台湾,#genre#
-凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰卫视,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰卫视,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4bad4d33bd936f2f27892d02-173094140705928&wsIPSercert=d8fd7cab79f0b45b13aec319b72fece6
-无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
