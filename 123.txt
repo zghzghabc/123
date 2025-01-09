@@ -87,6 +87,23 @@ CGTN阿语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cablet
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 
 -------------------------------------------------------------------------------------
+🇨🇳iHOT剧场,#genre#
+iHOT 爱谍战,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&yang-1989
+iHOT 爱动漫,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&yang-1989
+iHOT 爱科幻,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&yang-1989
+iHOT 爱科学,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&yang-1989
+iHOT 爱浪漫,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&yang-1989
+iHOT 爱旅行,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&yang-1989
+iHOT 爱奇谈,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&yang-1989
+iHOT 爱赛车,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&yang-1989
+iHOT 爱体育,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&yang-1989
+iHOT 爱玩具,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&yang-1989
+iHOT 爱喜剧,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&yang-1989
+iHOT 爱悬疑,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&yang-1989
+iHOT 爱院线,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&yang-1989
+iHOY 爱历史,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&yang-1989
+------------------------------------------------------------------------------------------------
+
 
 🇨🇳其它剧场,#genre#
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
@@ -265,22 +282,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 --------------------------------------------------------------------------------------------------
 
-🇨🇳iHOT剧场,#genre#
-iHOT 爱谍战,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&yang-1989
-iHOT 爱动漫,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&yang-1989
-iHOT 爱科幻,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&yang-1989
-iHOT 爱科学,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&yang-1989
-iHOT 爱浪漫,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&yang-1989
-iHOT 爱旅行,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&yang-1989
-iHOT 爱奇谈,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&yang-1989
-iHOT 爱赛车,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&yang-1989
-iHOT 爱体育,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&yang-1989
-iHOT 爱玩具,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&yang-1989
-iHOT 爱喜剧,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&yang-1989
-iHOT 爱悬疑,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&yang-1989
-iHOT 爱院线,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&yang-1989
-iHOY 爱历史,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&yang-1989
-------------------------------------------------------------------------------------------------
 
 🇨🇳超级工程,#genre#
 Ⅰ第1集 港珠澳大桥(上),https://flv0.bn.netease.com/4d0818d8913a89c30007df8b36f2e336b9a9781cee68edf9751dcf42a97902e2869b89064ad593ada9a5990dbebd3801d681bc7975a08b04ecc696bc537bef54119d9d87858b656c81b2cb01774ac8e97e2980831e0b19a9ab74406ae369e465aa69508aab9cdf24e77d92b6a059708a26aaf0476f5b578a.m3u8
