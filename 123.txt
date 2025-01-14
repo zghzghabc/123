@@ -105,6 +105,23 @@ CGTN阿语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cablet
 爱赛车,http://39.134.136.161:6610/000000001000/6000000006000240630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000240630
 爱院线,http://39.134.136.161:6610/000000001000/6000000006000030630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000030630
 爱青春,http://39.134.136.161:6610/000000001000/6000000006000100630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000100630
+-------------------------------------------------------------------------------------
+🇨🇳SiTV剧场,#genre#
+东方影视,http://39.134.136.161:6610/000000001000/5000000010000032212/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032212
+第一财经,http://39.134.136.161:6610/000000001000/5000000010000027146/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000027146
+哈哈炫动,http://39.134.136.161:6610/000000001000/5000000005000031641/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000031641
+SiTV东方财经,http://39.134.136.161:6610/000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003
+SiTV法治天地,http://39.134.136.161:6610/000000001000/9001547084732463424/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=9001547084732463424
+SiTV劲爆体育,http://39.134.136.161:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972
+SiTV魅力足球,http://39.134.136.161:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
+SiTV欢笑剧场,http://39.134.136.161:6610/000000001000/5000000002000009455/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000009455
+SiTV乐游,http://39.134.136.161:6610/000000001000/5000000006000040025/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040025
+SiTV动漫秀场,http://39.134.136.161:6610/000000001000/5000000002000023636/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000023636
+SiTV游戏风云,http://39.134.136.161:6610/000000001000/5000000002000027005/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000027005
+SiTV生活时尚,http://39.134.136.161:6610/000000001000/5000000002000019634/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000019634
+SiTV都市剧场,http://39.134.136.161:6610/000000001000/5000000002000004412/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000004412
+SiTV金色学堂,http://39.134.136.161:6610/000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105
+SiTV七彩戏剧,http://39.134.136.161:6610/000000001000/5000000011000031116/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031116
 ------------------------------------------------------------------------------------------------
 
 
