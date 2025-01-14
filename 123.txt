@@ -110,7 +110,7 @@ CGTN阿语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cablet
 
 🇨🇳其它剧场,#genre#
 CHC家庭影院,http://113.195.45.40:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC动作电影,http://113.195.45.40:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 CHC影迷电影,http://113.195.45.40:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 Hot亚洲影院,http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
