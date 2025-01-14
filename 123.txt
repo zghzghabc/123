@@ -37,15 +37,6 @@ CGTN阿语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cablet
 🇨🇳地方卫视,#genre#
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 美丽云南,https://www.ynbit.com:1937/cyds-mlyn/livestream/playlist.m3u8?zyund
-云南都市,http://ynxsj.7766.org:9901/tsfile/live/1000_1.m3u8
-云南娱乐,http://ynxsj.7766.org:9901/tsfile/live/1002_1.m3u8
-云南影视,http://ynxsj.7766.org:9901/tsfile/live/1003_1.m3u8
-云南康旅,http://ynxsj.7766.org:9901/tsfile/live/1004_1.m3u8
-云南少儿,http://ynxsj.7766.org:9901/tsfile/live/1006_1.m3u8
-昆明影视,http://ynxsj.7766.org:9901/tsfile/live/1016_1.m3u8
-昆明生活,http://ynxsj.7766.org:9901/tsfile/live/1019_1.m3u8
-昆明科教,http://ynxsj.7766.org:9901/tsfile/live/1010_1.m3u8
-昆明教育,http://ynxsj.7766.org:9901/tsfile/live/1012_1.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
