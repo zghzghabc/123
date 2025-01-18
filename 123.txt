@@ -19,6 +19,11 @@ CCTV-16,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122
 CCTV-17,http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
+CCTV兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
+CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
