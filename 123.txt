@@ -17,6 +17,7 @@ CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV16,http://106.111.244.151:5001/tsfile/live/0015_1.m3u8
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 中国教育1台,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 中国教育2台,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
