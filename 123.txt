@@ -71,42 +71,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 -------------------------------------------------------------------------------------
-🇨🇳iHOT剧场,#genre#
-爱体育,http://39.134.136.161:6610/000000001000/6000000006000290630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000290630
-爱动漫,http://39.134.136.161:6610/000000001000/6000000006000280630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000280630
-爱历史,http://39.134.136.161:6610/000000001000/6000000006000150630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000150630
-爱喜剧,http://39.134.136.161:6610/000000001000/6000000006000010630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000010630
-爱奇谈,http://39.134.136.161:6610/000000001000/6000000006000270630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000270630
-爱幼教,http://39.134.136.161:6610/000000001000/6000000006000180630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000180630
-爱悬疑,http://39.134.136.161:6610/000000001000/6000000006000050630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000050630
-爱旅行,http://39.134.136.161:6610/000000001000/6000000006000250630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000250630
-爱浪漫,http://39.134.136.161:6610/000000001000/6000000006000040630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000040630
-爱玩具,http://39.134.136.161:6610/000000001000/6000000006000220630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000220630
-爱科学,http://39.134.136.161:6610/000000001000/6000000006000160630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000160630
-爱科幻,http://39.134.136.161:6610/000000001000/6000000006000020630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000020630
-爱经典,http://39.134.136.161:6610/000000001000/6000000006000060630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000060630
-爱谍战,http://39.134.136.161:6610/000000001000/6000000006000070630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000070630
-爱赛车,http://39.134.136.161:6610/000000001000/6000000006000240630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000240630
-爱院线,http://39.134.136.161:6610/000000001000/6000000006000030630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000030630
-爱青春,http://39.134.136.161:6610/000000001000/6000000006000100630/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000006000100630
--------------------------------------------------------------------------------------
-🇨🇳SiTV剧场,#genre#
-东方影视,http://39.134.136.161:6610/000000001000/5000000010000032212/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000032212
-第一财经,http://39.134.136.161:6610/000000001000/5000000010000027146/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000027146
-哈哈炫动,http://39.134.136.161:6610/000000001000/5000000005000031641/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000031641
-SiTV东方财经,http://39.134.136.161:6610/000000001000/5000000007000010003/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010003
-SiTV法治天地,http://39.134.136.161:6610/000000001000/9001547084732463424/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=9001547084732463424
-SiTV劲爆体育,http://39.134.136.161:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972
-SiTV魅力足球,http://39.134.136.161:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
-SiTV欢笑剧场,http://39.134.136.161:6610/000000001000/5000000002000009455/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000009455
-SiTV乐游,http://39.134.136.161:6610/000000001000/5000000006000040025/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040025
-SiTV动漫秀场,http://39.134.136.161:6610/000000001000/5000000002000023636/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000023636
-SiTV游戏风云,http://39.134.136.161:6610/000000001000/5000000002000027005/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000027005
-SiTV生活时尚,http://39.134.136.161:6610/000000001000/5000000002000019634/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000019634
-SiTV都市剧场,http://39.134.136.161:6610/000000001000/5000000002000004412/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000004412
-SiTV金色学堂,http://39.134.136.161:6610/000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105
-SiTV七彩戏剧,http://39.134.136.161:6610/000000001000/5000000011000031116/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031116
-------------------------------------------------------------------------------------------------
 
 
 🇨🇳其它剧场,#genre#
@@ -144,6 +108,7 @@ SiTV七彩戏剧,http://39.134.136.161:6610/000000001000/5000000011000031116/ind
 鳳凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 鳳凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=4bad4d33bd936f2f27892d02-173094140705928&wsIPSercert=d8fd7cab79f0b45b13aec319b72fece6
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
