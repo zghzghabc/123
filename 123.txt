@@ -19,7 +19,12 @@ CCTV-16,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122
 CCTV-17,http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
 --------------------------------------------------------------------------------------------------
 
 🇨🇳地方卫视,#genre#
