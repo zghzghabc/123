@@ -25,12 +25,9 @@ CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 CCTV兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CETV-1,http://www.8239999.xyz:8188/udp/239.93.19.111:5140
+CETV-2,http://www.8239999.xyz:8188/udp/239.93.18.113:5140 
+CETV-4,http://www.8239999.xyz:8188/udp/239.93.18.50:5140
 --------------------------------------------------------------------------------------------------
 
 🇨🇳地方卫视,#genre#
