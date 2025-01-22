@@ -17,6 +17,7 @@ CCTV-14 ,http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212
 CCTV-15,http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-16,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV-4K,http://www.8239999.xyz:8188/udp/239.93.52.42:5140
 CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
